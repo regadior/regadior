@@ -7,12 +7,11 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 <h2 align="center"> About Me </h2>
 
 - 🔭 I’m currently learning Web Development
- <h2 align="center"> 🛠️ My Skills </h2>
- # 🔥 Streak Stats
+<h2 align="center"> 🔥 Streak Stats</h2>
 
 <p align="right"><img align="righ" src="https://github-readme-streak-stats.herokuapp.com/?user=regadior&theme=algolia" alt="regadior" /></p>
 
- 
+ <h2 align="center"> 🛠️ My Skills </h2>
 ### 👉 Programming languages
  - Learning
 <p align="left"> 
