@@ -28,7 +28,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
   </p>
-  ### 👉 Frontend Development
+ ### 👉 Frontend Development
+ - Know/Using
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
