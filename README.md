@@ -5,12 +5,13 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 </p>
 <hr/>
 <h2 align="center"> About Me </h2>
-# 🔥 Streak Stats
-
-<p align="right"><img align="righ" src="https://github-readme-streak-stats.herokuapp.com/?user=regadior&theme=algolia" alt="regadior" /></p>
 
 - 🔭 I’m currently learning Web Development
  <h2 align="center"> 🛠️ My Skills </h2>
+ # 🔥 Streak Stats
+
+<p align="right"><img align="righ" src="https://github-readme-streak-stats.herokuapp.com/?user=regadior&theme=algolia" alt="regadior" /></p>
+
  
 ### 👉 Programming languages
  - Learning
