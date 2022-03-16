@@ -5,7 +5,9 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 </p>
 <hr/>
 <h2 align="center"> About Me </h2>
+## 🔥 Streak Stats
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regadior&theme=algolia" alt="regadior" /></p>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently learning Web Development
@@ -98,7 +100,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/regadior"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=regadior&custom_title=Regadior%20Public%20Contributions%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/regadior"><img alt="regadior's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=regadior&custom_title=Regadior%20Public%20Contributions%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
