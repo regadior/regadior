@@ -10,6 +10,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 
 - 🔭 I’m currently learning Web Development
  <h2 align="center"> 🛠️ My Skills </h2>
+ 
 ### 👉 Programming languages
 
 <p align="left"> 
