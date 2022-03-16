@@ -7,8 +7,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 <h2 align="center"> About Me </h2>
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regadior&theme=algolia" alt="regadior" /></p>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="right"><img align="righ" src="https://github-readme-streak-stats.herokuapp.com/?user=regadior&theme=algolia" alt="regadior" /></p>
 
 - 🔭 I’m currently learning Web Development
  <h2 align="center"> 🛠️ My Skills </h2>
