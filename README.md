@@ -12,7 +12,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   
 ### 👉 Programming languages
 <p align="left"> 
-  - Know/Using
+ - Know/Using
 
 -  Learning
 &emsp;
