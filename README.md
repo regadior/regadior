@@ -60,7 +60,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  </p>
   
 ### 👉Graphic Designing
-- Learning
+- Know/Using
 <p align="left">
     &emsp;
   <a href="#">
