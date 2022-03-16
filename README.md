@@ -13,10 +13,12 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  
 ### 👉 Programming languages
 - Know/Using
+- <p align="left"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
+  </p>
 - Learning
 <p align="left"> 
   &emsp;
