@@ -79,7 +79,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   &emsp;
 </p>
 <br/>
-## 📊 Github Stats (Expand to View) 
+<h2 align="center">📊 Github Stats (Expand to View)</h2>
 
 
 <details> 
