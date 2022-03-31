@@ -31,6 +31,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+  <a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
+    <img alt="Batch" src="https://img.shields.io/badge/Batch-%23007396.svg?logo=batch&logoColor=white%22"/>
+  </a>
+	
 </p>
 
 ### 👉 Frontend Development
