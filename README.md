@@ -13,7 +13,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  <h2 align="center"> 🛠️ My Skills </h2>
  
 ### 👉 Programming languages
-- Learning
+- Using
+
 <p align="left"> 
    &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -33,15 +34,41 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   </a>
   &emsp;
   <a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
-    <img alt="Batch" src="https://img.shields.io/badge/Batch-%23007396.svg?logo=batch&logoColor=white%22"/>
+    <img alt="Batch" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white"/>
   </a>
-	
+</p>
+
+- Future
+
+### 👉 Backed Development
+- Using
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Spring boot" src="https://img.shields.io/badge/spring boot-%236DB33F.svg?logo=spring&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white">
+  </a>
+</p>
+
+- Future
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white">
+  </a>   
 </p>
 
 ### 👉 Frontend Development
-- Know/Using
+- Using
 <p align="left"> 
   &emsp; 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB">
+  </a> 
+&emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
@@ -49,18 +76,20 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
 </p>
 
+- Future
+
 ### 👉 Databases & Cloud Hosting
-- Know/Using
+- Using
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/">
+	    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white">
+	</a>
  </p>
+ 
+ - Future
   
 ### 👉Graphic Designing
 - Know/Using
@@ -70,6 +99,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  </p>
+ 
+ - Future
 
  ### 👉 Software & Tools
  - Learning
