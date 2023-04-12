@@ -87,12 +87,13 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
     <a href="https://www.mysql.com/">
 	    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white">
 	</a>
+
  </p>
  
  - Future
   
 ### 👉Graphic Designing
-- Know/Using
+- Using
 <p align="left">
     &emsp;
   <a href="#">
@@ -103,7 +104,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  - Future
 
  ### 👉 Software & Tools
- - Learning
+ - Using
 <p align="left">
     &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -115,6 +116,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
+
+ - Future
 <br/>
 <h2 align="center">📊 Github Stats (Expand to View)</h2>
 
