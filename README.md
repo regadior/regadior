@@ -39,6 +39,12 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 </p>
 
 - Future
+<p align="left"> 
+&emsp;
+<a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white"/>
+  </a>
+  </p>
 
 ### 👉 Backed Development
 - Using
@@ -59,6 +65,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white">
   </a>   
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB">
+  </a> 
 </p>
 
 ### 👉 Frontend Development
@@ -80,6 +90,13 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 
 - Future
 
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="next.js" src="https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white">
+  </a> 
+</p>
+
 ### 👉 Databases & Cloud Hosting
 - Using
 <p align="left">
@@ -87,7 +104,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
     <a href="https://www.mysql.com/">
 	    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white">
 	</a>
-
+	&emsp;
+    <a href="https://www.mysql.com/">
+	    <img alt="MySQL" src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white">
+	</a>
  </p>
  
  - Future
@@ -106,15 +126,19 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  ### 👉 Software & Tools
  - Using
 <p align="left">
-    &emsp;
+   &emsp;
+   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+   &emsp;
+  <a href="#"><img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white"></a>
+   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
+  <a href="#"><img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white"></a>
+  
 </p>
 
  - Future
@@ -138,7 +162,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/regadior"><img alt="regadior's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=regadior&custom_title=Regadior%20Public%20Contributions%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/regadior"><img alt="regadior's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=regadior&custom_title=Regadior%20Public%20Contributions%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
