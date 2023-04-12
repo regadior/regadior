@@ -111,17 +111,6 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  </p>
  
  - Future
-  
-### 👉Graphic Designing
-- Using
-<p align="left">
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
- 
- - Future
 
  ### 👉 Software & Tools
  - Using
