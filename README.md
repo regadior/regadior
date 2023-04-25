@@ -32,10 +32,6 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
-    <img alt="Batch" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white"/>
-  </a>
 </p>
 
 - Future
@@ -127,6 +123,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white"></a>
+	&emsp;
+	  <a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
+    <img alt="Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white"/>
+  </a>
   
 </p>
 
