@@ -42,7 +42,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   </a>
   </p>
 
-### 👉 Backed Development
+### 👉 Backend Development
 - Using
 <p align="left"> 
   &emsp; 
