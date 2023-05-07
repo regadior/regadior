@@ -65,6 +65,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB">
   </a> 
+	&emsp; 
+<a href="#" target="_blank"> 
+   <img alt="express.js" src="https://img.shields.io/badge/tsed--node-3178C6?&logo=ts-node&logoColor=white">
+  </a> 
 </p>
 
 ### 👉 Frontend Development
