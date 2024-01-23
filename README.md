@@ -32,14 +32,15 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+ &emsp;
+<a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white"/>
+  </a>
 </p>
 
 - Future
 <p align="left"> 
-&emsp;
-<a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white"/>
-  </a>
+
   </p>
 
 ### 👉 Backend Development
@@ -53,25 +54,25 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white">
   </a>
-</p>
-
-- Future
-<p align="left"> 
-  &emsp; 
+	&emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&logo=nestjs&logoColor=white">
+  </a> 
+	&emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white">
-  </a>   
-  &emsp; 
+  </a> 
+	 &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB">
   </a> 
-&emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&logo=nestjs&logoColor=white">
-  </a> 	
+</p>
+
+- Future
+<p align="left">   	
 &emsp; 
 <a href="#" target="_blank"> 
-   <img alt="express.js" src="https://img.shields.io/badge/tsed--node-3178C6?&logo=ts-node&logoColor=white">
+   <img alt="tsed" src="https://img.shields.io/badge/tsed--node-3178C6?&logo=ts-node&logoColor=white">
   </a> 
 </p>
 
@@ -116,7 +117,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
  <a href="https://www.mysql.com/">
 	    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
 	</a>
-
+ &emsp;
+ <a href="https://www.mysql.com/">
+	    <img alt="mongoDb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+	</a>
  </p>
  
  - Future
