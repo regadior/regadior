@@ -112,6 +112,11 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
     <a href="https://www.mysql.com/">
 	    <img alt="MySQL" src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white">
 	</a>
+&emsp;
+ <a href="https://www.mysql.com/">
+	    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white">
+	</a>
+
  </p>
  
  - Future
