@@ -40,7 +40,10 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 
 - Future
 <p align="left"> 
-
+ &emsp;
+<a href="https://docs.microsoft.com/es-es/windows-server/administration/windows-commands/windows-commands/">
+    <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white"/>
+  </a>
   </p>
 
 ### 👉 Backend Development
